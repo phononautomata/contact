@@ -2,3 +2,5 @@ data/raw/
 data/curated/
 *.xlsx
 *.csvf
+src/__pycache__
+.contact/
